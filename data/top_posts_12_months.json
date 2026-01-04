@@ -1,0 +1,134 @@
+[
+  {
+    "post_id": "IG-2024-05-TOP",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2024-05",
+    "likes": 900,
+    "comments": 120,
+    "shares": 160,
+    "saves": 220,
+    "engagement_rate": 5.2
+  },
+  {
+    "post_id": "IG-2024-06-TOP",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2024-06",
+    "likes": 1080,
+    "comments": 145,
+    "shares": 195,
+    "saves": 270,
+    "engagement_rate": 5.55
+  },
+  {
+    "post_id": "IG-2024-07-TOP",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2024-07",
+    "likes": 1260,
+    "comments": 170,
+    "shares": 230,
+    "saves": 320,
+    "engagement_rate": 5.9
+  },
+  {
+    "post_id": "IG-2024-08-TOP",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2024-08",
+    "likes": 1440,
+    "comments": 195,
+    "shares": 265,
+    "saves": 370,
+    "engagement_rate": 6.25
+  },
+  {
+    "post_id": "IG-2024-09-TOP",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2024-09",
+    "likes": 1620,
+    "comments": 220,
+    "shares": 300,
+    "saves": 420,
+    "engagement_rate": 6.6
+  },
+  {
+    "post_id": "IG-2024-10-TOP",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2024-10",
+    "likes": 1800,
+    "comments": 245,
+    "shares": 335,
+    "saves": 470,
+    "engagement_rate": 6.95
+  },
+  {
+    "post_id": "IG-2024-11-TOP",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2024-11",
+    "likes": 1980,
+    "comments": 270,
+    "shares": 370,
+    "saves": 520,
+    "engagement_rate": 7.3
+  },
+  {
+    "post_id": "IG-2024-12-TOP",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2024-12",
+    "likes": 2160,
+    "comments": 295,
+    "shares": 405,
+    "saves": 570,
+    "engagement_rate": 7.65
+  },
+  {
+    "post_id": "IG-2025-01-TOP",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2025-01",
+    "likes": 2340,
+    "comments": 320,
+    "shares": 440,
+    "saves": 620,
+    "engagement_rate": 8.0
+  },
+  {
+    "post_id": "IG-2025-02-TOP",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2025-02",
+    "likes": 2520,
+    "comments": 345,
+    "shares": 475,
+    "saves": 670,
+    "engagement_rate": 8.35
+  },
+  {
+    "post_id": "IG-2025-03-TOP",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2025-03",
+    "likes": 2700,
+    "comments": 370,
+    "shares": 510,
+    "saves": 720,
+    "engagement_rate": 8.7
+  },
+  {
+    "post_id": "IG-2025-04-TOP",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2025-04",
+    "likes": 2880,
+    "comments": 395,
+    "shares": 545,
+    "saves": 770,
+    "engagement_rate": 9.05
+  }
+]

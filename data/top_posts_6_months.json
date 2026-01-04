@@ -1,0 +1,24 @@
+[
+  {
+    "post_id": "IG-2024-11-01",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2024-11",
+    "likes": 1200,
+    "comments": 180,
+    "shares": 240,
+    "saves": 320,
+    "engagement_rate": 6.8
+  },
+  {
+    "post_id": "IG-2025-04-09",
+    "platform": "Instagram",
+    "type": "Reel",
+    "month": "2025-04",
+    "likes": 2320,
+    "comments": 310,
+    "shares": 390,
+    "saves": 520,
+    "engagement_rate": 9.1
+  }
+]
